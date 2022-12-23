@@ -1,4 +1,4 @@
-/*
+
 let country = 'india';
 
 let continent = 'asia';
@@ -42,4 +42,3 @@ console.log(typeof country );
 console.log(typeof language );
 console.log(typeof false);
 
-*/
