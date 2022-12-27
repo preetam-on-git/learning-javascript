@@ -1,18 +1,3 @@
-let js= 'amazing';
-console.log(54+98+28-23);
-console.log('preetam');
-
-let firstName = "hisoka";
-console.log(firstName);
-console.log(firstName);
-console.log(firstName);
-
-let myFirstJob = 'backend developer';
-let myCurrentJob = 'student';
-
-console.log(myFirstJob);
-console.log(myCurrentJob);
-
 
 
 
@@ -103,8 +88,6 @@ console.log(population>populationfinland);
 let description = 'Portugal is in Europe, and its 11 million people speak portuguese';
 console.log(description);
 
-
-
 const markMass = '95';
 const markHeight = '1.88';
 const johnMass = '85';
@@ -114,12 +97,9 @@ markBMI = markMass / markHeight ** 2;
 
 johnBMI = johnMass / johnHeight ** 2;
 
-console.log(markBMI,johnBMI);
 
-const markHigherBMI = johnBMI>markBMI;
-console.log(markHigherBMI);
 
-*/
+
 
 
 
@@ -132,6 +112,83 @@ console.log(me);
 
 const newMe = `I'm ${firstNam} ,an ${age} years old ${job}`;
 console.log(newMe);
+
+console.log(`hahahahahahahahahha!!!!shitasssjdsajj`);
+console.log(`one piece is the best in big 3
+then bleach comes second
+og naruto comes a close third 
+and shippuden is eating shit in hell
+that's my opinion bitches!!!!!!!!`)
+
+
+
+
+const age = 12
+const letLegalAge = age>=18 ; 
+const yearsLeft = 18 - age;
+
+if(letLegalAge){
+    console.log('preetam can start learn to drive😄');
+} else {
+    console.log(`preetam is not eligible to get a driving license🙃, wait another ${yearsLeft}  years`);
+}
+
+
+if(){
+
+}else{
+
+
+}
+
+const markBMI = 28.3;
+const johnBMI = 23.9;
+
+const bmim=28.3;
+const bmij=23.9;
+
+if(markBMI>johnBMI){
+    console.log(`mark's bmi(${bmim}) is higher than john's(${bmij}) !`)}
+    else{
+        console.log(`john's bmi(${bmij}) is higher than mark's(${bmim}) !`)
+    }
+
+    */
+
+    // type cnversion
+
+    const year = '1997';
+    console.log(Number(year),year);
+    console.log(Number(year)+18);
+
+    console.log(String(56));
+
+    // type coversion
+
+    let n = '54'+1
+    n = n-1;
+    console.log(n);
+
+// falsy values are values that area not exactly false but will become when we will try to convert them into booleans
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
